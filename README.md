@@ -5,10 +5,9 @@ The whole program was written from scratch without importing source code from an
 
 The whole aquarium design is made to be as realistic as possible by imitating perspective projection when viewing the aquarium and its surroundings. 
 
-<p align="center">
-  <img src="https://github.com/Calance96/CG-Fish-Tank-Java/tree/master/readme_img/environment_setup.JPG"/>
-</p>
-![Environment setup](readme_img/environment_setup.JPG)
+<center>
+    <img src="readme_img/environment_setup.JPG"/>
+</center>
 
 ## Environment Setup
 When the program is run, the fish tank is filled with a random number of fish. The user can choose to adjust the following settings (these will be explained in more detail in the following sections):
