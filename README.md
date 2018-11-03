@@ -18,7 +18,6 @@ When the program is run, the fish tank is filled with a random number of fish. T
 <p align="center">
     <img src="readme_img/tank_preview.JPG" alt="Tank preview">
 </p>
-![Tank preview]()
 
 ## Fish
 The fish design is inspired by the famous game, Pokemon. Several of the fish’ characteristics are derived from this game, such as the ability to evolve, and the fish images are actually the designs of several water-type Pokemon.
