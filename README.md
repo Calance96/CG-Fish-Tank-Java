@@ -17,7 +17,7 @@ When the program is run, the fish tank is filled with a random number of fish. T
 - Toggle monster - Control the appearance of monsters to catch the fish.
 
 <p align="center">
-    <img src="readme_img/tank_preview.JPG" alt="Tank preview">
+    <img src="readme_img/tank_preview.jpg" alt="Tank preview">
 </p>
 
 ### Fish
@@ -33,7 +33,7 @@ The fish design is inspired by the famous game, Pokemon. Several of the fish’ 
 The monster designs are taken from the popular kids cartoon, Spongebob Squarepants. The sole function of the Monster is to catch any fish that come their way. This function is enabled by default. 
 
 <p align="center">
-    <img src="readme_img/monster_preview.JPG" alt="Monster preview">
+    <img src="readme_img/monster_preview.jpg" alt="Monster preview">
 </p>
 
 ### Bubbles
@@ -42,7 +42,7 @@ To add effect, bubbles are created from time to time in the fish tank. It is des
 - Once the bubbles reach the water surface, they will just vanish.
 
 <p align="center">
-    <img src="readme_img/bubble_preview.JPG" alt="Bubble preview">
+    <img src="readme_img/bubble_preview.jpg" alt="Bubble preview">
 </p>
 
 ### Remarks
