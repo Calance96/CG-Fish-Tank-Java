@@ -17,7 +17,7 @@ When the program is run, the fish tank is filled with a random number of fish. T
 - Toggle monster - Control the appearance of monsters to catch the fish.
 
 <p align="center">
-    <img src="readme_img/tank_preview.jpg" alt="Tank preview">
+    <img src="readme_img/tank_preview.JPG" alt="Tank preview">
 </p>
 
 ### Fish
