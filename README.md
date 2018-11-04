@@ -1,4 +1,4 @@
-# CG-Fish-Tank-Java
+# Introduction
 The project was created for my university computer graphics course. It was written in Java. Feel free to explore it!
 
 The whole program was written from scratch without importing source code from any online resources. However, most of the animated objects within the fish tank use gif images obtained from the Internet, such as the Pokemon, seaweed and treasure chest. With Java 2D graphics, a beautiful yet innovative fish tank was created.
@@ -9,7 +9,7 @@ The whole aquarium design is made to be as realistic as possible by imitating pe
     <img src="readme_img/environment_setup.JPG" alt="Environment setup">
 </p>
 
-## Introduction
+## Brief Information
 ### Environment Setup
 When the program is run, the fish tank is filled with a random number of fish. The user can choose to adjust the following settings (these will be explained in more detail in the following sections):
 - Toggle fish health - Control the health display of the fish. 
